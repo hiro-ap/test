@@ -4,3 +4,7 @@ This repository is described about *hiro-ap*
 
 * University student in Technology faculty
 * Laravel Engineer
+
+## Copyright
+
+Copyright (c) 2023 ikepu-tp.
